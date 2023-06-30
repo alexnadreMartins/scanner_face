@@ -1,5 +1,5 @@
 # scanner_face
-##É um script que utilizo para separar fotos de formatura, é necessário formatar alguns termos fotograficos 
+## É um script que utilizo para separar fotos de formatura, é necessário formatar alguns termos fotograficos 
 para que ele funcione perfeitamente mas estou melhorando para que não seja mais necessário. 
 Estou me dedicando para deixá-lo mais programa e mais que qualquer usuário possa utilizar sem entender de programação.
 Ele funciona simplesmente pegando uma foto do rosto de referencia e a partir dai ele escaneia em lotes de 10.000 fotos quais são as fotos fo cliente e copia todas 
