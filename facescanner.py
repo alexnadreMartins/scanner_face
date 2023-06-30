@@ -62,9 +62,9 @@ def copiar_fotos_com_rosto_referencia(pasta_origem, pasta_destino, imagem_refere
     print("Processo concluído.")
 
 # Exemplo de uso:
-pasta_origem = '/run/media/ale/DADOSBT/GIT/rosto/fotos/'
-pasta_destino = '/run/media/ale/DADOSBT/GIT/rosto/teste/'
-imagem_referencia = '/run/media/ale/DADOSBT/GIT/rosto/referencia/DSCF4461.jpg'
+pasta_origem = '/pasta/pasta/'
+pasta_destino = '/pasta/pasta/'
+imagem_referencia = '/pasta/pasta/referencia.jpg'
 
 # Marca o rosto de referência na imagem
 marcar_rosto_referencia(imagem_referencia)
