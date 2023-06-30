@@ -15,4 +15,4 @@ para uma possível conferência hoje executo manualmente.
 - Criar um relatório de numero de imagens identificadas opção de enviar para uma rede GAN para melhorar adequando cameras diferentes a um mesmo padrão de cor, foco, nitidez e upscale caso necessário.
 
 #Para quem quiser continuar a ideia fico a disposição para integrar e auxiliar na evolução desse script para que ele possa se tornar um programa.
-Contato: alexandremartins.fotografo@outlook.com
+Contato: alexandremartins.fotografo@hotmail.com
