@@ -5,9 +5,9 @@
  Ele funciona simplesmente pegando uma foto do rosto de referencia e a partir dai ele escaneia em lotes de 10.000 fotos quais são as fotos fo cliente e copia todas 
  para a pasta destino.
  Atualizações planejadas:
- - Criar processo gráfico em pyqt um desing simples porém com uma lembrança de CSI onde é composto por duas colunas uma com um retangulo como a 
- opção de arrastar a foto referência e 2 patchs para direcionar a pasta de destino e a pasta das fotografias com a opção de scanner recursivo e um botão start, 
- no segundo retangulo exibe as imagens que estão sendo escaneadas.
+ - Criar processo gráfico em pyqt um desing simples é composto por uma com um retangulo como a opção de arrastar a foto referência 
+e 2 patchs para direcionar a pasta de destino e a pasta das fotografias com a opção de scanner recursivo e um botão start, 
+no segundo retangulo exibe as imagens que estão sendo escaneadas.✔️
  - Criar regras para classificação das fotos.( penso que ao identificar adicionar um sistema de estrelas e tag com o nome da pasta de destino das fotos que foram localizadas, 
  para uma possível conferência hoje executo manualmente.
 - Criar um explorador de arquivos internos que já me traga filtros para auxiliar nas conferências.
